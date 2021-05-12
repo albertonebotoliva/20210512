@@ -1,6 +1,10 @@
-# didomi
+# Technical Test
 
-## CLI Commands
+## Frontend
+
+I decided to go with preact, as it is your framework and I can try it.
+
+Talk to you soon!
 
 ``` bash
 # install dependencies
