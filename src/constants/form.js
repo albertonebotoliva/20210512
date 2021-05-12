@@ -1,0 +1,4 @@
+export const ON_CHANGE_INPUT = 'ON_CHANGE_INPUT';
+export const ON_CHANGE_CONSENT = 'ON_CHANGE_CONSENT';
+export const RESET_FORM = 'RESET_FORM';
+export const SET_NOTIFICATION = 'SET_NOTIFICATION';

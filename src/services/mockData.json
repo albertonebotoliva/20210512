@@ -1,0 +1,128 @@
+[
+    {
+        "name": "John Smith",
+        "email": "john@gmail.com",
+        "consents": [
+            {
+                "checked": true,
+                "name": "newsletter",
+                "label": "Receive newsletter"
+            },
+            {
+                "checked": false,
+                "name": "ads",
+                "label": "Be shown targeted ads"
+            },
+            {
+                "checked": false,
+                "name": "statistics",
+                "label": "Contribute to anonymous visit statistics"
+            }
+        ]
+    },
+    {
+        "name": "William Poe",
+        "email": "will@gmail.com",
+        "consents": [
+            {
+                "checked": false,
+                "name": "newsletter",
+                "label": "Receive newsletter"
+            },
+            {
+                "checked": true,
+                "name": "ads",
+                "label": "Be shown targeted ads"
+            },
+            {
+                "checked": false,
+                "name": "statistics",
+                "label": "Contribute to anonymous visit statistics"
+            }
+        ]
+    },
+    {
+        "name": "Adam Rich",
+        "email": "ar@gmail.com",
+        "consents": [
+            {
+                "checked": false,
+                "name": "newsletter",
+                "label": "Receive newsletter"
+            },
+            {
+                "checked": false,
+                "name": "ads",
+                "label": "Be shown targeted ads"
+            },
+            {
+                "checked": true,
+                "name": "statistics",
+                "label": "Contribute to anonymous visit statistics"
+            }
+        ]
+    },
+    {
+        "name": "Poor Guy",
+        "email": "pg@gmail.com",
+        "consents": [
+            {
+                "checked": true,
+                "name": "newsletter",
+                "label": "Receive newsletter"
+            },
+            {
+                "checked": true,
+                "name": "ads",
+                "label": "Be shown targeted ads"
+            },
+            {
+                "checked": false,
+                "name": "statistics",
+                "label": "Contribute to anonymous visit statistics"
+            }
+        ]
+    },
+    {
+        "name": "Happy Person",
+        "email": "happy@gmail.com",
+        "consents": [
+            {
+                "checked": true,
+                "name": "newsletter",
+                "label": "Receive newsletter"
+            },
+            {
+                "checked": false,
+                "name": "ads",
+                "label": "Be shown targeted ads"
+            },
+            {
+                "checked": true,
+                "name": "statistics",
+                "label": "Contribute to anonymous visit statistics"
+            }
+        ]
+    },
+    {
+        "name": "Black Cat",
+        "email": "cat@gmail.com",
+        "consents": [
+            {
+                "checked": false,
+                "name": "newsletter",
+                "label": "Receive newsletter"
+            },
+            {
+                "checked": true,
+                "name": "ads",
+                "label": "Be shown targeted ads"
+            },
+            {
+                "checked": true,
+                "name": "statistics",
+                "label": "Contribute to anonymous visit statistics"
+            }
+        ]
+    }
+]

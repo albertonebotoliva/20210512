@@ -1,0 +1,3 @@
+export const FETCHING_TOGGLE = 'FETCHING_TOGGLE';
+export const GET_CONSENT = 'GET_CONSENT';
+export const POST_CONSENT = 'POST_CONSENT';
